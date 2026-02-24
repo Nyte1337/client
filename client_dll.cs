@@ -1,5 +1,5 @@
 // Generated using https://github.com/a2x/cs2-dumper
-// 2026-02-10 13:23:57.273805400 UTC
+// 2026-02-24 03:16:32.813967100 UTC
 
 namespace CS2Dumper.Schemas {
     // Module: client.dll
