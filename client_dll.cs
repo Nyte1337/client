@@ -1,4 +1,4 @@
-l// Generated using https://github.com/a2x/cs2-dumper
+// Generated using https://github.com/a2x/cs2-dumper
 // 2026-05-14 23:58:57.293645200 UTC
 
 namespace CS2Dumper.Schemas {
